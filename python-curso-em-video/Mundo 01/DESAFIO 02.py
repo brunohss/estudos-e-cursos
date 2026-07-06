@@ -1,0 +1,5 @@
+print('\033[0;33m====== DESAFIO 02 ======\033[m')
+dia=input('Dia: ')
+mes=input('Mes: ')
+ano=input('Ano: ')
+print('Voce nasceu no dia',dia,'no mes',mes,'e no ano',ano,'isso mesmo')

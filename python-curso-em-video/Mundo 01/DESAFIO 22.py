@@ -1,0 +1,7 @@
+print('\033[0;33m====== DESAFIO 22 ======\033[m')
+nome = str(input('Digite o seu nome: '))
+nome = nome.strip()
+print(f"Letra maiuscula : {nome.upper()}")
+print(f"Letra minuscula : {nome.lower()}")
+print(f"O total de caracteres do nome inteiro sem os espacos : {len(''.join(nome.split()))}")
+print(f'O total de caracteres do primeiro nome : {len(nome.split()[0])}')
