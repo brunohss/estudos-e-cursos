@@ -1,0 +1,6 @@
+Ja 0 Jb 0 Jc 0 Jd 80 Je 90
+Ja 0 Jb 0 Jc 4000 Jd 80 Je 90
+Ja 0 Jb -4000 Jc 4000 Jd 80 Je 90
+Ja 4000 Jb -4000 Jc 4000 Jd 80 Je 90
+Ja 4000 Jb -4000 Jc 4000 Jd 40 Je 90
+Ja 0 Jb 0 Jc 0 Jd 80 Je 90

@@ -1,0 +1,24 @@
+﻿>variometro arduino
+
+>variometro x gps
+
+>xcsoar
+
+>XCSOAR RASPBIAN
+
+>sensor de humidade > �planta feito !!!
+
+>controle automatico hidrico > planta
+
+>controle automatico 
+
+>estacao meteorologica
+
+>cnc caseiro feito !!!
+
+> impressora 3D
+
+> plantacao em 3D
+
+utilizar o kinect no raspbian e trabalhar com processamento de imagens
+
